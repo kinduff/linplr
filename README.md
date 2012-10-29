@@ -22,7 +22,7 @@ Copia y pega la clave entre las comillas de la linea 5 de Linplr, como se muestr
 
 Ahora necesitarás asignar un atajo de teclado al script, realmente depende de cada distribución pero el comando que tendrás que asignar será:
 
-    bash /home/TuUsuario/Directorio/A/Linplr/Linplr.sh
+    bash /home/TuUsuario/Directorio/A/Linplr/linplr.sh
 
 Eso es todo.
 
