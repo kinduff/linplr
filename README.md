@@ -24,7 +24,7 @@ Ahora necesitarás asignar un atajo de teclado al script, realmente depende de c
 
     bash /home/TuUsuario/Directorio/A/Linplr/linplr.sh
 
-Eso es todo.
+Si utilizar Ubuntu 12.04+ quizás no podrás asignar el atajo de manera fácil o accesible. Te recomiendo hacer uso de compiz para asignar este atajo; Comandos > Command Line 0 y se agrega el comando de arriba, después en la pestaña de combiaciones de teclas escoger el atajo deseado.
 
 ## Licencia
 
